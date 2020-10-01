@@ -79,6 +79,11 @@ If you have ideas for buttons, or would like to see a list of ideas that have no
 
 Check out our awesome contributors [here](./CONTRIBUTORS.md)!
 
+# for you
+You will get learning beyond limit. Start your first contribution now.For better experience, Please see the [contributing guidelines](./CONTRIBUTING.md) for details.
+
+
+
 # LICENSE
 
 [MIT](./LICENSE)
